@@ -116,4 +116,6 @@ stderr.
 
 L<File::Copy::NoClobber> also has a non-clobber version of copy()
 
+L<File::Util::Rename>'s C<rename_noclobber()>, C<rename_warnclobber()>.
+
 =cut
