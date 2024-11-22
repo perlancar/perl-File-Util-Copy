@@ -14,6 +14,7 @@ use File::Copy ();
 # VERSION
 
 our @EXPORT_OK = qw(
+                       copy_noclobber
                        copy_warnclobber
                );
 
